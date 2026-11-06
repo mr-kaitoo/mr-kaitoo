@@ -27,6 +27,7 @@ Currently working on AI‑powered consumer electronics, including handheld print
 - 🔭 I’m currently working on personal hardware reference demos & sourcing consulting for makers.
 - 💬 Ask me about embedded C, RTOS, hardware sourcing and public technical document research.
 - 📫 Blog：<a href="https://too.dev">My Personal Blog</a>
+- 📩 Mail： <a href="mailto:kai@too.dev">kai@too.dev</a>
 
 ## 🛠️ Skills & Tools
 <div align="center">
@@ -47,7 +48,7 @@ Currently working on AI‑powered consumer electronics, including handheld print
 </div>
 
 ## 📂 Featured Projects
-> 
+> git
 <div align="center">
   <a href="https://github.com/mr-kaitoo?tab=repositories">
     <img src="https://img.shields.io/badge/View‑All‑Repos-%234472C4?style=for-the-badge&logo=github" alt="查看全部仓库" />
