@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 ```text
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-kaitoo)
 ```
+
+```text
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kaitoo)
+```
