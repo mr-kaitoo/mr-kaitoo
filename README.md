@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=行到水穷处，坐看云起时)](https://git.io/typing-svg)
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mr-kaitoo)](https://github.com/stats-organization/github-stats-extended)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-kaitoo)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kaitoo)
