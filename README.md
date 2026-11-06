@@ -47,7 +47,7 @@ Currently working on AI‑powered consumer electronics, including handheld print
 </div>
 
 ## 📂 Featured Projects
-> 如果暂时没有公开项目，可以直接把本节整块删除
+> 
 <div align="center">
   <a href="https://github.com/mr-kaitoo?tab=repositories">
     <img src="https://img.shields.io/badge/View‑All‑Repos-%234472C4?style=for-the-badge&logo=github" alt="查看全部仓库" />
